@@ -1,0 +1,14 @@
+<dataset>
+ <event id="1" name="event1" openDate="2014-05-30" summaryDes="event1입니다."
+ small_type="image/jpeg" small_file="1-small" large_type="image/jpeg" large_file="1-large"
+ description="event1상세설명입니다." />
+ 
+ <event id="2" name="event2" openDate="2014-05-29" summaryDes="event2입니다."
+ small_type="image/jpeg" small_file="2-small" large_type="image/jpeg" large_file="2-large"
+ description="event2상세설명입니다." /> 
+ 
+ <event id="3" name="event3" openDate="2014-05-30" summaryDes="event3입니다."
+ small_type="image/jpeg" small_file="3-small" large_type="image/jpeg" large_file="3-large"
+ description="event3상세설명입니다." />
+
+</dataset>
